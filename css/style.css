@@ -1,0 +1,11 @@
+#margining {
+  margin: auto;
+}
+
+#price {
+  color: red;
+}
+
+#side-menu {
+  position: fixed;
+}
